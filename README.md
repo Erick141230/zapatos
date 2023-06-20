@@ -8,7 +8,7 @@ AUTHOR: Erick Daniel Florez Quintero
 
 **I received a message for a job which says:**
 
-- In his role as a software developer, he has been chosen for the development of an application needed by the shoe store manager, the boss enters the characteristics of the purchased products. The program should be able to enter costs for each shoe size ranging from size 35 to 40, which is the most popular size nowadays. Additionally, the application should display a message indicating the total expenditure.
+- In his role as a software developer, he has been chosen for the development of an application needed by the shoe store manager, the boss enters the characteristics of the purchased products. The program should be able to enter costs for each shoe size ranging from size 35 to 40, which is the most popular size nowadays. Additionally, the application should display a message indicating the total cost.
 
 ## User story
 
@@ -31,10 +31,7 @@ Normal course of events:
 5. The number of shoes acquired per size is calculated, and the total expenses are calculated.
 6. Everything is displayed on the screen.
 
-![image](https://github.com/Erick141230/zapatos/assets/112519431/db402064-f232-4f7b-a9be-d151d735c538)
-
-
-
+![image](https://github.com/Erick141230/zapatos/assets/112519431/9a93abdb-a8a7-4fd5-aea8-707c12a3307d)
 
 ## Flowchart
 
