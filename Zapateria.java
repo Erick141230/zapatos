@@ -53,18 +53,24 @@ public class Zapateria
                     System.out.println("La talla ingresada no es valida.");
                     break;
             }
+            
+        }
+
+       for (i = 0; i < numZapatos; i++) {
             System.out.println("Digite el costo del par de zapatos");
             costos = sc.nextInt();
             // The cost of each shoe entered into the system is added to the variable valorTotal
             valorTotal = valorTotal + costos;
         }
+            
+        
         System.out.println("Se compro "+ talla_35 +" pares de zapatos de la talla 35.");
         System.out.println("Se compro "+ talla_36 +" pares de zapatos de la talla 36.");
         System.out.println("Se compro "+ talla_37 +" pares de zapatos de la talla 37.");
         System.out.println("Se compro "+ talla_38 +" pares de zapatos de la talla 38.");
         System.out.println("Se compro "+ talla_39 +" pares de zapatos de la talla 39.");
         System.out.println("Se compro "+ talla_40 +" pares de zapatos de la talla 40.");
-        System.out.println("Con un gato total de: " + valorTotal);
+        System.out.println("Con un gasto total de: " + valorTotal + " pesos");
         
     }
 }
