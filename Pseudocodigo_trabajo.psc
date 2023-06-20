@@ -23,9 +23,12 @@ Algoritmo sin_titulo
 			Caso 40:
 				talla_40 <- talla_40 + 1;
 		FinSegun
-		valorTotal = valorTotal + costos
 	Fin Para
-	
+
+	para i<-1 Hasta numZapatos Con Paso i+1 Hacer
+		valorTotal = valorTotal + costos
+	FinPara
+
 	Escribir "Se compraron ",talla_35," pares de zapatos de la talla 35";
 	Escribir "Se compraron ",talla_36," pares de zapatos de la talla 36";
 	Escribir "Se compraron ",talla_37," pares de zapatos de la talla 37";
