@@ -14,8 +14,9 @@ AUTHOR: Erick Daniel Florez Quintero
 
 In this case, the Jira page was used to create the user story.
 
-![In this case us need jira to create the user story.](./Imagene/jira.png)
-![in spanish.](./Imagene/jira2.png)
+![image](https://github.com/Erick141230/zapatos/assets/112519431/21912c04-d7a3-45ab-ad77-da2df80422b2)
+![image](https://github.com/Erick141230/zapatos/assets/112519431/7fa1778f-ccbf-4253-8325-7288431a728d)
+
 
 ## Use case
 
