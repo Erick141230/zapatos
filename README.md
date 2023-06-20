@@ -44,4 +44,5 @@ PSeInt was used for the creation of the flowchart.
 
 PSeInt was used for the creation of the pseudocode.
 
-![Pseudocode.](./Imagene/Pseudocodigo.png)
+![image](https://github.com/Erick141230/zapatos/assets/112519431/230e1485-d55e-4da1-b4e7-61ad1f59bcbc)
+
