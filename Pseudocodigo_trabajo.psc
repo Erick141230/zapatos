@@ -25,7 +25,9 @@ Algoritmo sin_titulo
 		FinSegun
 	Fin Para
 
-	para i<-1 Hasta numZapatos Con Paso i+1 Hacer
+	para i<-1 Hasta numZapatos Con Paso 1 Hacer
+		Escribir "Digite el costo del par de zapatos";
+		Leer costos;
 		valorTotal = valorTotal + costos
 	FinPara
 
@@ -35,6 +37,6 @@ Algoritmo sin_titulo
 	Escribir "Se compraron ",talla_38," pares de zapatos de la talla 38";
 	Escribir "Se compraron ",talla_39," pares de zapatos de la talla 39";
 	Escribir "Se compraron ",talla_40," pares de zapatos de la talla 40";
-	Escribir "Con un gasto total de ", valorTotal;
+	Escribir "Con un gasto total de ", valorTotal," pesos";
 
 FinAlgoritmo
