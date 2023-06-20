@@ -14,7 +14,7 @@ AUTHOR: Erick Daniel Florez Quintero
 
 In this case, the Jira page was used to create the user story.
 
-![image](https://github.com/Erick141230/zapatos/assets/112519431/21912c04-d7a3-45ab-ad77-da2df80422b2)
+![image](https://github.com/Erick141230/zapatos/assets/112519431/1a0bfdea-7594-42b6-aa92-7f4d02ae6f4d)
 ![image](https://github.com/Erick141230/zapatos/assets/112519431/7fa1778f-ccbf-4253-8325-7288431a728d)
 
 
