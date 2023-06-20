@@ -30,7 +30,8 @@ Normal course of events:
 5. The number of shoes acquired per size is calculated, and the total expenses are calculated.
 6. Everything is displayed on the screen.
 
-![use case.](./Imagene/caso_de_uso.png)
+![image](https://github.com/Erick141230/zapatos/assets/112519431/9393ef7d-914a-4104-84c1-28629808d161)
+
 
 ## Flowchart
 
