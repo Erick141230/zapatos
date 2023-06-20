@@ -8,7 +8,7 @@ AUTHOR: Erick Daniel Florez Quintero
 
 **I received a message for a job which says:**
 
-- In his role as a software developer, he has been chosen for the development of an application needed by the shoe store manager, which allows inputting expenses while restocking products. The program should be able to enter costs for each shoe size ranging from size 35 to 40, which is the most popular size nowadays. Additionally, the application should display a message indicating the total expenditure.
+- In his role as a software developer, he has been chosen for the development of an application needed by the shoe store manager, the boss enters the characteristics of the purchased products. The program should be able to enter costs for each shoe size ranging from size 35 to 40, which is the most popular size nowadays. Additionally, the application should display a message indicating the total expenditure.
 
 ## User story
 
