@@ -38,7 +38,8 @@ Normal course of events:
 
 PSeInt was used for the creation of the flowchart.
 
-![flowchart.](./Imagene/DiagramadeFlujo.png)
+![image](https://github.com/Erick141230/zapatos/assets/112519431/166320cc-1949-4e27-93dd-8c7e237fd2a4)
+
 
 ## Pseudocode
 
